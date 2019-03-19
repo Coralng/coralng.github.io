@@ -1,0 +1,21 @@
+                    table {
+                        border-style: solid;
+                        border-collapse: collapse;
+                        border-color: pink;
+                        border-width: 2px;
+                        /* width: 50% */
+                        background-color: gray;
+                        color: black;
+                        ]
+                    }
+                    
+                    td,
+                    th {
+                        vertical-align: middle;
+                        border-style: solid;
+                        border-color: pink;
+                        border-width: 2px;
+                        padding: 10px;
+                        background-color: gray;
+                        color: white;
+                    }
